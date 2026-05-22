@@ -2,7 +2,7 @@
 
 A full-stack restaurant reservation web application built with **React** and **Express.js**. Customers can browse the restaurant's menu, learn about the team, and make table reservations — all from a sleek, responsive single-page interface. The backend stores reservations in **MongoDB** and is deployed on **Vercel** as a serverless function.
 
-> **Live:** [[restaurant-booking-4pkg.vercel.app](https://restaurant-booking-orpin.vercel.app/)]
+> **Live:** [[restaurant-booking-orpin.vercel.app](https://restaurant-booking-orpin.vercel.app/)]
 
 ---
 
