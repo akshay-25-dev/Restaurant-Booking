@@ -12,7 +12,7 @@ dotenv.config({ path: './config/config.env' });
 
 app.use(
     cors({
-           origin: [ "https://restaurant-booking-4pkg.vercel.app"],
+           origin: [ "https://restaurant-booking-orpin.vercel.app", "https://restaurant-booking-4pkg.vercel.app"],
            methods: ["POST", "GET", "OPTIONS"],
            credentials: true,
 })
